@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## To declare:
+
+This project is a course project done by Patrick Cheng, Yawen Guo, Claire Li and Silence Yang in the Winter 2022, from January to March. Since the original repository is set to be private, I upload a new one for application portfolio.
+
 ## Available Scripts
 
 In the project directory, you can run:
